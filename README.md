@@ -58,6 +58,7 @@ EDA was used to visualize distributions, trends, and group differences identifie
 
 ### Distribution of Final Grades
 ![Distribution of Final Grades](images/g3_distribution.png)
+
 *Final grades show moderate skewness with a distinct group of low-performing students, motivating further analysis of academic risk factors.*
 
 
@@ -118,19 +119,23 @@ Both perspectives are valuable, depending on the decision-making context.
 
   ### Past Failures vs Final Grade
 ![Past Failures vs Final Grade](images/failures_vs_g3.png)
+
 *Students with prior course failures consistently achieve lower final grades, indicating that academic difficulty compounds over time without early intervention.*
 
 
  ### Absences vs Final Grade
 ![Absences vs Final Grade](images/absences_vs_g3.png)
+
 *Final grades decline sharply as absences increase, particularly beyond a critical threshold, highlighting attendance as a key early warning indicator.*
 
  ### Study Time vs Final Grade
 ![Study Time vs Final Grade](images/studytime_vs_g3.png)
+
 *Students who study more hours per week tend to achieve higher median final grades, with less variability among high-study groups.*
 
 ### Higher Education Intent vs Final Grade
 ![Higher Education Intent vs Final Grade](images/higher_ed_intent_vs_g3.png)
+
 *Students who plan to pursue higher education consistently outperform peers, suggesting that long-term academic motivation strongly influences outcomes.*
 
 
